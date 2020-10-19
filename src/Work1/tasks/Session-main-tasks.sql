@@ -118,7 +118,7 @@ Select Distinct Gr.Id From Groups Gr
 		) T1 On T1.St = St.Id 
 	Group By Gr.Id
 
---Первая версия рабочего запроса
+--ГЏГҐГ°ГўГ Гї ГўГҐГ°Г±ГЁГї Г°Г ГЎГ®Г·ГҐГЈГ® Г§Г ГЇГ°Г®Г±Г 
 Select Distinct Gr.Id From 
 	(Select Distinct B.St St, Disc.Id Disc From Disciplines Disc 
 		Join Uplans Upl On Disc.Id = Upl.Disc And Upl.Semestr = 1
@@ -172,7 +172,7 @@ Select Distinct Gr.Id From Groups Gr
 			And Not Exists 
 				(Select Distinct B.St From Balls B
 					Join Uplans Upl On B.Uplan = Upl.Id
-					Join Disciplines Disc On Upl.Disc = Disc.Id And Disc.Title = 'Физика'
+					Join Disciplines Disc On Upl.Disc = Disc.Id And Disc.Title = 'Г”ГЁГ§ГЁГЄГ '
 					Where B.St = St.Id))
 
 --4.8
@@ -205,3 +205,14 @@ Select St.FIO, Count(*) Amount From Students St
 	Having Count(*) = 
 		(Select Max(T1.Amount) From 
 			(Select Count(*) Amount From Balls B2 Group By B2.St) T1)
+
+-- WIth Exists
+Select Distinct Gr.Id From Groups Gr
+    Where Not Exists 
+        (Select * From Students St
+            Where St.Gr = Gr.Id
+            And Not Exists 
+                (Select Distinct B.St From Balls B
+                    Join Uplans Upl On B.Uplan = Upl.Id
+                    Join Disciplines Disc On Upl.Disc = Disc.Id And Disc.Title = 'Р¤РёР·РёРєР°'
+                    Where B.St = St.Id))
