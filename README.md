@@ -1,5 +1,5 @@
 # Sql-course
-## SPbSTU Databases Course
+## SPbSTU Database Course
 ### Work1
 - Отсечение строк и сортировка
 - Соединения: `RIGHT/LEFT/INNER JOIN`
