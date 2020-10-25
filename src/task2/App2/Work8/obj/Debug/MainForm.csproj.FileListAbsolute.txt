@@ -1,0 +1,10 @@
+C:\Users\ypyla\PROJECTS\C#\Work8\Work8\bin\Debug\Work8.exe.config
+C:\Users\ypyla\PROJECTS\C#\Work8\Work8\bin\Debug\Work8.exe
+C:\Users\ypyla\PROJECTS\C#\Work8\Work8\bin\Debug\Work8.pdb
+C:\Users\ypyla\PROJECTS\C#\Work8\Work8\obj\Debug\MainForm.csprojAssemblyReference.cache
+C:\Users\ypyla\PROJECTS\C#\Work8\Work8\obj\Debug\Work8.MainForm.resources
+C:\Users\ypyla\PROJECTS\C#\Work8\Work8\obj\Debug\Work8.Properties.Resources.resources
+C:\Users\ypyla\PROJECTS\C#\Work8\Work8\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\ypyla\PROJECTS\C#\Work8\Work8\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\ypyla\PROJECTS\C#\Work8\Work8\obj\Debug\Work8.exe
+C:\Users\ypyla\PROJECTS\C#\Work8\Work8\obj\Debug\Work8.pdb

@@ -1,0 +1,11 @@
+C:\Users\ypyla\PROJECTS\C#\Work6\Work6\bin\Debug\Work6.exe.config
+C:\Users\ypyla\PROJECTS\C#\Work6\Work6\bin\Debug\Work6.exe
+C:\Users\ypyla\PROJECTS\C#\Work6\Work6\bin\Debug\Work6.pdb
+C:\Users\ypyla\PROJECTS\C#\Work6\Work6\obj\Debug\Work6.csprojAssemblyReference.cache
+C:\Users\ypyla\PROJECTS\C#\Work6\Work6\obj\Debug\Work6.MainForm.resources
+C:\Users\ypyla\PROJECTS\C#\Work6\Work6\obj\Debug\Work6.Properties.Resources.resources
+C:\Users\ypyla\PROJECTS\C#\Work6\Work6\obj\Debug\Work6.csproj.GenerateResource.cache
+C:\Users\ypyla\PROJECTS\C#\Work6\Work6\obj\Debug\Work6.csproj.CoreCompileInputs.cache
+C:\Users\ypyla\PROJECTS\C#\Work6\Work6\obj\Debug\Work6.exe
+C:\Users\ypyla\PROJECTS\C#\Work6\Work6\obj\Debug\Work6.pdb
+C:\Users\ypyla\PROJECTS\C#\Work6\Work6\obj\Debug\Work6.Form2.resources
