@@ -9,3 +9,14 @@ C:\Users\ypyla\PROJECTS\C#\Work7\Work7\bin\Debug\Work7.exe
 C:\Users\ypyla\PROJECTS\C#\Work7\Work7\bin\Debug\Work7.pdb
 C:\Users\ypyla\PROJECTS\C#\Work7\Work7\obj\Debug\Work7.exe
 C:\Users\ypyla\PROJECTS\C#\Work7\Work7\obj\Debug\Work7.pdb
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App1\Work7\bin\Debug\Work7.exe.config
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App1\Work7\bin\Debug\Work7.exe
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App1\Work7\bin\Debug\Work7.pdb
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App1\Work7\obj\Debug\Work7.csprojAssemblyReference.cache
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App1\Work7\obj\Debug\Work7.MainForm.resources
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App1\Work7\obj\Debug\Work7.Properties.Resources.resources
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App1\Work7\obj\Debug\Work7.Table.resources
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App1\Work7\obj\Debug\Work7.csproj.GenerateResource.cache
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App1\Work7\obj\Debug\Work7.csproj.CoreCompileInputs.cache
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App1\Work7\obj\Debug\Work7.exe
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App1\Work7\obj\Debug\Work7.pdb
