@@ -1,4 +1,4 @@
-# Sql-course
+# Sql-courses
 ## SPbSTU Database Course
 ### Task1 - T-SQL [MS SQL Server]
 - Отсечение строк и сортировка
