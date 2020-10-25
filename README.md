@@ -21,3 +21,5 @@
 - Строковые фкнции
 - Математические функции
 - Подзапросы с использованием `WITH`
+
+![gif](https://github.com/Yang-Pi/Sql-course/blob/main/LearnDB-result.gif)
