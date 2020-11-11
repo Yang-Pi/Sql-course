@@ -1,0 +1,10 @@
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App3\App3\bin\Debug\App3.exe.config
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App3\App3\bin\Debug\App3.exe
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App3\App3\bin\Debug\App3.pdb
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App3\App3\obj\Debug\App3.csprojAssemblyReference.cache
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App3\App3\obj\Debug\App3.MainForm.resources
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App3\App3\obj\Debug\App3.Properties.Resources.resources
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App3\App3\obj\Debug\App3.csproj.GenerateResource.cache
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App3\App3\obj\Debug\App3.csproj.CoreCompileInputs.cache
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App3\App3\obj\Debug\App3.exe
+C:\Users\ypyla\PROJECTS\Sql-course\src\task2\App3\App3\obj\Debug\App3.pdb
