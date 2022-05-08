@@ -1,11 +1,13 @@
 ### Task1 - T-SQL [MS SQL Server]
-- Отсечение строк и сортировка
-- Соединения: `RIGHT/LEFT/INNER JOIN`
-- Агрегатные функции: `COUNT, MAX/MIN, AVG, GROUP BY, HAVING, ROLLUP, CUBE, GROUPING SETS`
-- Операции над множествами: `UNION, INTERSECT, EXCEPT, (NOT) EXISTS, (NOT) IN`
-- Подзапросы
-- Использование *представлений* и *хранимых процедур* для получения информации из базы данных
+
+- Cutting lines and sorting
+- Joins: `RIGHT/LEFT/INNER JOIN`
+- Agregate functions: `COUNT, MAX/MIN, AVG, GROUP BY, HAVING, ROLLUP, CUBE, GROUPING SETS`
+- Operations with sets: `UNION, INTERSECT, EXCEPT, (NOT) EXISTS, (NOT) IN`
+- Subqueries
+- Using *views* и *store procedures* for selecting info from DB
+
 ### Task2 - SQL + C## [.NET Framework]
-- Создание простейшего интефейса
-- Создание многооконного приложения и подключение к базе данных
-- Явное использование объектов `DataSet, DataTable, DataRow` в коде
+- Creating simpe UI
+- Developing multi-windows app & setting up DB connection
+- Using objects `DataSet, DataTable, DataRow` in a program
