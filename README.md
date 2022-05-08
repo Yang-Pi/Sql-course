@@ -1,15 +1,8 @@
 # Sql Tasks
-## 1. SPbSTU Database Course
 
-## 2. [LearnDB](https://learndb.ru/)
-### Интерактивные онлайн-курсы по SQL СУБД PostgreSQL
-- Отсечение строк и сортировка
-- Соединения
-- Агрегатные функции
-- Операции над множествами
-- Подзапросы
-- Строковые фкнции
-- Математические функции
-- Подзапросы с использованием `WITH`
+- 🧑‍🎓 SPbSTU Database Course
 
-![gif](https://github.com/Yang-Pi/Sql-course/blob/main/LearnDB-result.gif)
+- 🤔 Chellenging tasks from friends
+
+- 📘 [LearnDB](https://learndb.ru/) - interactive SQL online-course
+<img src="https://github.com/Yang-Pi/Sql-course/blob/main/LearnDB-result.gif" alt="drawing" width="700"/>
