@@ -11,3 +11,6 @@
 - Creating simpe UI
 - Developing multi-windows app & setting up DB connection
 - Using objects `DataSet, DataTable, DataRow` in a program
+
+### Task3 - From Internship Test
+- `JOIN` & `SUM`
